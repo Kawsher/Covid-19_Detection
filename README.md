@@ -1,1 +1,1 @@
-# Covid-19_Detection
+# Covid-19 Detection Using Chest Xrays
